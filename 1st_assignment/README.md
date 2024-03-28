@@ -1,7 +1,10 @@
-Όλα τα μοντέλα Ο-Σ δημιουργήθηκαν μέσω του drawio οπότε θα προτείναμε να τα ανοίξετε μέσω του https://app.diagrams.net/
+All models were created via drawio so we would recommend opening them via https://app.diagrams.net/
 
-Το 1ο μέρος της εργασίας αποτελείται από το αρχείο "1η Εργασία Βάσεων Δεδομένων.docx"  και από το αρχείο "montelo_OS_1ou_merous.drawio".
-Το 2ο μέρος της εργασίας αποτελείται από το αρχείο "sxesiako_montelo_2ou_merous.drawio".
-Το 3ο μέρος της εργασίας αποτελείται από το αρχείο "montelo_OS_3ou_merous.drawio"  και από το αρχείο "sxesiako_montelo_3ou_merous.drawio".
+The 1st part of the assignment consists of the file `1st Database Assignment.docx` 
+and the file `montelo_OS_1ou_merous.drawio`
+The 2nd part of the work consists of the file `sxesiako_montelo_2ou_merous.drawio`.
+The 3rd part of the work consists of the file `montelo_OS_3ou_merous.drawio` and the file "sxesiako_montelo_3ou_merous.drawio".
 
-Το σχεσιακό μοντέλο του 3ου μέρους της εργασίας παραμένει ίδιο με το σχεσιακό μοντέλο του 2ου μέρους εκτός από μία αλλαγή που συμβαίνει, οπότε το αρχείο του σχεσιακού μοντέλου του 3ου μέρους περιέχει μόνο αυτή την αλλαγή. 
+The 3rd part relational model of the job remains the same as the 2nd part relational model except for one change that occurs, so the 3rd part relational model file only contains that change.
+
+In the `assignment.pdf` file there are the requirements of the application.
